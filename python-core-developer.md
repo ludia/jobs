@@ -8,8 +8,7 @@ peer code-reviews.
 
 * Write maintainable code with extensive test coverage, working in a
   professional software engineering environment (with source control,
-  dev/test/stage/prod release cycle, continuous deployment) - cowboy coders
-  need not apply;
+  dev/test/stage/prod release cycle, continuous deployment);
 * Collaborate across the company and interact with our customers (game
   developers, data scientists...) to define, design and built new APIs;
 * Tackle complex problems in distributed computing, virtualization performance,
@@ -56,8 +55,7 @@ comprend:
 * La documentation des APIs;
 * Les revues quotidiennes de code;
 * L'écriture de code maintenable avec une large couverture de test, dans un
-  environnement d'ingénierie de logiciels professionnels - Les cow-boys ne
-  doivent pas appliquer;
+  environnement d'ingénierie de logiciels professionnels;
 * La collaboration à travers l'entreprise pour définir, concevoir et construire
   les APIs.
 
