@@ -11,9 +11,6 @@ peer code-reviews.
   dev/test/stage/prod release cycle, continuous deployment);
 * Collaborate across the company and interact with our customers (game
   developers, data scientists...) to define, design and built new APIs;
-* Tackle complex problems in distributed computing, virtualization performance,
-  distributed queuing, real-time multiplayer logic, and more;
-* Maintain and evolve legacy code to keep compliancy with third parties.
 
 ## Requirements
 
