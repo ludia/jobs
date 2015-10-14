@@ -13,11 +13,11 @@ peer code-reviews.
   developers, data scientists...) to define, design and built new APIs;
 * Tackle complex problems in distributed computing, virtualization performance,
   distributed queuing, real-time multiplayer logic, and more;
-* Maintain and evelove legacy code to keep compliancy with third parties.
+* Maintain and evolve legacy code to keep compliancy with third parties.
 
 ## Requirements
 
-We places a high premium on engineers with a deep commitment to quality and a
+We place a high premium on engineers with a deep commitment to quality and a
 demonstrated understanding of underlying technologies. To apply for the role,
 you should have some or all of the following:
 
