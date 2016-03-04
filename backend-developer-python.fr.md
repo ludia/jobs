@@ -25,6 +25,6 @@ Vous collaborerez avec les autres équipes de développement dès le design tech
 * d'aptitudes avancées dans le développement d'applications avec Pyramid et
   SQLAlchemy
 * d'être en mesure de construire sur une infrastructure Amazon Web Services
-  la capacité à écrire des interfaces « front-end » aux services Web avec
+* la capacité à écrire des interfaces « front-end » aux services Web avec
   AngularJS
 * d'une compréhension des systèmes de calcul distribué
